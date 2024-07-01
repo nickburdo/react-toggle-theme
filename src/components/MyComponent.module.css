@@ -1,0 +1,21 @@
+.main {
+  flex-grow: 1;
+
+  background: blue;
+}
+
+.article {
+  width: 80vw;
+  margin: 0 auto;
+  padding: 8px;
+}
+
+.dark {
+  background: #333;
+  color: #eee;
+}
+
+.light {
+  background: #eee;
+  color: #333;
+}
